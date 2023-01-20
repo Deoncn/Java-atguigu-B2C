@@ -1,0 +1,3 @@
+com\deoncn\carousel\controller\CarouselController.class
+com\deoncn\carousel\service\impl\CarouselServiceImpl.class
+com\deoncn\carousel\config\CarouselConfiguration.class

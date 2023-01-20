@@ -1,0 +1,3 @@
+com\deoncn\user\config\UserConfiguration.class
+com\deoncn\user\controller\UserAdminController.class
+com\deoncn\user\UserApplication.class

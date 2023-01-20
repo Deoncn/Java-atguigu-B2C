@@ -1,0 +1,5 @@
+com\deoncn\collect\service\CollectService.class
+com\deoncn\collect\mapper\CollectMapper.class
+com\deoncn\collect\CollectApplication.class
+com\deoncn\collect\service\impl\CollectServiceImpl.class
+com\deoncn\collect\controller\CollectController.class

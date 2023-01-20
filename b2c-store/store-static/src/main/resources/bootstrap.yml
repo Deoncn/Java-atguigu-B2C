@@ -1,0 +1,10 @@
+server:
+  port: 3002
+
+spring:
+  application:
+    name: static-service
+  cloud:
+    nacos:
+      server-addr: 192.168.5.171:8848
+

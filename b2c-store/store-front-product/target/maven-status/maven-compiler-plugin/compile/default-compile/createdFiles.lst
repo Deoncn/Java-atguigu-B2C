@@ -1,0 +1,4 @@
+com\deoncn\product\ProductApplication.class
+com\deoncn\product\controller\ProductAdminController.class
+com\deoncn\product\controller\ProductCartController.class
+com\deoncn\product\controller\ProductCollectController.class

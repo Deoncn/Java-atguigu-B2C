@@ -1,0 +1,10 @@
+server:
+  port: 3004
+
+
+spring:
+  application:
+    name: product-service
+  cloud:
+    nacos:
+      server-addr: 192.168.5.171:8848
